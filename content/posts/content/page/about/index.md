@@ -14,21 +14,16 @@ menu:
         params:
             icon: user
 ---
+### introduce
+终于开启我的博客历程，作为第一篇博文，虽然也可以用类似于"hello world"一类的开篇搪塞过去，但我还是想要好好的写一些内容，比如**为什么要搞一个博客**，**计划用博客记录些什么**之类的，以此来表示我是真的要认真去做这件事情的。
+### why
+<p>写博客的理由还是很多的，因为从开始想开一个自己的博客到实施已经过去了好久。起初是看到好多大佬都有自己的blog，那自己也搞一个，踏上强者之路！但那会儿网络是啥，github怎么登录八字都没一撇，也就没有跟下去了。再往后，自己在查阅学习的过程中，记录的方式总是有点凌乱，也没有好好的汇总在一起，有时候总会想着回过头看看自己都会些什么，结果发现回头了，但是都不知道要往哪里去查，这时候又想到了要是搞一个博客，随时随地去把自己的技能定期的更新一下，需要总结看看的时候也方便许多。还有就是，自己多少是有些分享欲的，但是又羞于拿一些浅薄的产出摆出去，这时候blog这种东西就有点合适了，反正也不署名，发出去之后不管有没有人看，总之我就是分享了，这就是我的成果！~~叉腰~~😏</p>
+<p>因为想了好久，所以理由要罗列总是能写好长的，就目前来说，最重要的一点是，是希望能够通过博客去有规律的记录自己的生活，以此来改掉散漫的毛病。</p>
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### what
+博客要写的东西我预计是有几点
+- 生活的碎碎
+- 学习的记录
+- 一些计划/安排/心愿一类的东西
+目前就大致想着这三个分类吧。也许实际上由于太懒了要删掉一个或是两个，也可能变更或是新增。总之答题就这样吧。
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
