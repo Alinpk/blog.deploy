@@ -14,3 +14,6 @@ tags:
 >2. 协程框架的编写，计划待定
 >3. 部署一个gitlab
 >4. 看看jeckins怎么结合到gitlab上
+
+# reading
+> ipc shmipc
