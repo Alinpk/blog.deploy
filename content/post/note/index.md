@@ -30,7 +30,7 @@ add esp,12    ; effectively "pop; pop; pop"
 
  <p>__stdcall的约定风格是在Win32 API函数的标准约定，做法如下:</p>
 
-```x86asm
+```
 /* example of __stdcall */
 push arg1 
 push arg2 
