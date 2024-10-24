@@ -6,13 +6,6 @@ categories:
 tags:
     - draft
 ------
-title: "note"
-draft: true
-categories:
-    - unarchives
-tags:
-    - draft
----
 ![alt text](image.png)
 
 image container repository
@@ -60,3 +53,14 @@ Docker Daemon 可以认为是通过 Docker Server 模块接受 Docker Client 的
 
 以下是Docker Daemon的架构图
 ![alt text](image-6.png)
+
+运行过程的作用有以下几种可能：
+
+向 Docker Registry 获取镜像。
+通过 GraphDriver 执行容器镜像的本地化操作。
+通过 NetworkDriver 执行容器网络环境的配置。
+通过 ExecDriver 执行容器内部运行的执行工作。
+
+![alt text](image-7.png)
+
+链接：https://zhuanlan.zhihu.com/p/600034612
